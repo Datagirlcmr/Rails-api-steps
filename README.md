@@ -3,6 +3,7 @@
 This API is made of two models
 
 * user model
+
 * step model
 
 The API has the following endpoints
